@@ -1,4 +1,5 @@
 # BarcodeReaderSample
-A barcode scanner example using Google Play services.
+I have used [This library](https://github.com/varvet/BarcodeReaderSample) to scan barcodes. 
 
-[This tutorial](https://www.varvet.com/blog/android-qr-code-reader-made-easy/) should be of interest :). 
+
+
